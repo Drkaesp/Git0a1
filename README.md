@@ -1,6 +1,6 @@
 # Git0a1
 
-# Curso Git de 0 a 1 – Resumo 06/10 (SETEC)
+# Curso Git de 0 a 1 – Resumo 06/10 (SETEC) !!!
 
 Este documento resume os principais conceitos e comandos abordados no curso **Git de 0 a 1**, ideal para iniciantes que desejam aprender controle de versão com Git.
 
